@@ -3,4 +3,4 @@ function Soma(n1:number, n2:number) {
 }
 
 Soma(5, 6)
-Soma(7, "8")
+Soma(7, 9)
